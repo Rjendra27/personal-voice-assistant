@@ -1,0 +1,5 @@
+GIRI: Hello! I am Rajendra's personal assistant
+GIRI: Hello! I am Rajendra's personal assistant
+GIRI: Sorry bro, I didn’t catch that.
+You: what is the time
+GIRI: It’s 08:42 PM ⏰
